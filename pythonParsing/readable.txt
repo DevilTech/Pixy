@@ -1,0 +1,591 @@
+checksum:04 sig:00 (00,00) width:00 height00 
+next frame: 
+checksum:e5 sig:01 (01,00) width:3b height01 
+next frame: 
+checksum:f5 sig:01 (01,00) width:32 height01 
+next frame: 
+checksum:fa sig:01 (01,00) width:2e height01 
+checksum:96 sig:01 (01,00) width:3a height01 
+next frame: 
+checksum:ff sig:01 (01,00) width:2b height01 
+checksum:a0 sig:01 (01,00) width:36 height01 
+checksum:5c sig:01 (01,00) width:3c height01 
+next frame: 
+checksum:fe sig:01 (01,00) width:29 height01 
+checksum:8c sig:01 (01,00) width:34 height01 
+checksum:98 sig:01 (01,00) width:32 height01 
+next frame: 
+checksum:03 sig:02 (01,00) width:26 height01 
+checksum:b1 sig:01 (01,00) width:30 height01 
+next frame: 
+checksum:0b sig:02 (01,00) width:24 height01 
+checksum:a9 sig:01 (01,00) width:2b height01 
+next frame: 
+checksum:05 sig:02 (01,00) width:21 height01 
+checksum:8a sig:01 (01,00) width:27 height01 
+next frame: 
+checksum:1c sig:02 (01,00) width:1f height01 
+checksum:43 sig:01 (01,00) width:28 height01 
+next frame: 
+checksum:0b sig:02 (01,00) width:1d height01 
+checksum:66 sig:01 (01,00) width:1d height01 
+next frame: 
+checksum:11 sig:02 (01,00) width:1c height01 
+checksum:64 sig:01 (01,00) width:17 height01 
+next frame: 
+checksum:09 sig:02 (01,00) width:19 height01 
+checksum:4e sig:01 (01,00) width:14 height01 
+checksum:35 sig:01 (01,00) width:06 height01 
+next frame: 
+checksum:13 sig:02 (01,00) width:17 height01 
+checksum:4a sig:01 (01,00) width:0c height01 
+next frame: 
+checksum:16 sig:02 (01,00) width:14 height01 
+checksum:4c sig:01 (01,00) width:04 height01 
+checksum:11 sig:01 (01,00) width:e0 height00 
+next frame: 
+checksum:17 sig:02 (01,00) width:11 height01 
+checksum:41 sig:01 (01,00) width:02 height01 
+checksum:44 sig:01 (01,00) width:0d height01 
+next frame: 
+checksum:20 sig:02 (01,00) width:0d height01 
+checksum:50 sig:01 (01,00) width:fe height00 
+next frame: 
+checksum:1c sig:02 (01,00) width:0a height01 
+checksum:32 sig:01 (01,00) width:00 height01 
+checksum:f9 sig:00 (01,00) width:c9 height00 
+next frame: 
+checksum:1d sig:02 (01,00) width:05 height01 
+checksum:49 sig:01 (01,00) width:eb height00 
+next frame: 
+checksum:1f sig:02 (01,00) width:00 height01 
+checksum:ec sig:00 (01,00) width:ba height00 
+next frame: 
+checksum:25 sig:02 (01,00) width:fb height00 
+next frame: 
+checksum:17 sig:02 (01,00) width:f4 height00 
+checksum:dc sig:00 (01,00) width:a9 height00 
+checksum:01 sig:01 (01,00) width:c4 height00 
+next frame: 
+checksum:1b sig:02 (01,00) width:ee height00 
+checksum:d4 sig:00 (01,00) width:a0 height00 
+next frame: 
+checksum:23 sig:02 (01,00) width:eb height00 
+next frame: 
+checksum:3a sig:02 (01,00) width:e2 height00 
+checksum:cc sig:00 (01,00) width:92 height00 
+next frame: 
+checksum:41 sig:02 (01,00) width:e0 height00 
+checksum:cf sig:00 (01,00) width:8e height00 
+next frame: 
+checksum:1b sig:02 (01,00) width:da height00 
+checksum:d1 sig:00 (01,00) width:89 height00 
+checksum:e0 sig:00 (01,00) width:cc height00 
+next frame: 
+checksum:21 sig:02 (01,00) width:d6 height00 
+checksum:a2 sig:00 (01,00) width:7f height00 
+checksum:b4 sig:00 (01,00) width:99 height00 
+next frame: 
+checksum:3e sig:02 (01,00) width:d3 height00 
+checksum:d1 sig:00 (01,00) width:81 height00 
+next frame: 
+checksum:27 sig:02 (01,00) width:cf height00 
+checksum:a2 sig:00 (01,00) width:74 height00 
+checksum:d3 sig:00 (01,00) width:93 height00 
+next frame: 
+checksum:13 sig:02 (01,00) width:d9 height00 
+checksum:97 sig:00 (01,00) width:70 height00 
+next frame: 
+checksum:27 sig:02 (01,00) width:ca height00 
+checksum:b4 sig:00 (01,00) width:6d height00 
+checksum:45 sig:01 (01,00) width:9a height00 
+next frame: 
+checksum:f7 sig:01 (01,00) width:cc height00 
+checksum:c5 sig:01 (01,00) width:d2 height00 
+checksum:5e sig:01 (01,00) width:95 height00 
+next frame: 
+checksum:fc sig:01 (01,00) width:cb height00 
+checksum:ae sig:00 (01,00) width:6b height00 
+checksum:63 sig:01 (01,00) width:b5 height00 
+next frame: 
+checksum:16 sig:02 (01,00) width:ca height00 
+checksum:67 sig:01 (01,00) width:9d height00 
+next frame: 
+checksum:d1 sig:01 (01,00) width:ba height00 
+checksum:ac sig:01 (01,00) width:af height00 
+checksum:b4 sig:01 (01,00) width:e1 height00 
+next frame: 
+checksum:48 sig:02 (01,00) width:c5 height00 
+checksum:7f sig:00 (01,00) width:67 height00 
+next frame: 
+checksum:09 sig:02 (01,00) width:c4 height00 
+checksum:7f sig:00 (01,00) width:6b height00 
+checksum:81 sig:01 (01,00) width:b4 height00 
+next frame: 
+checksum:96 sig:01 (01,00) width:a3 height00 
+checksum:7f sig:01 (01,00) width:d8 height00 
+checksum:a8 sig:01 (01,00) width:c4 height00 
+next frame: 
+checksum:00 sig:02 (01,00) width:c6 height00 
+checksum:82 sig:01 (01,00) width:d7 height00 
+next frame: 
+checksum:12 sig:02 (01,00) width:cd height00 
+checksum:7e sig:01 (01,00) width:aa height00 
+checksum:42 sig:01 (01,00) width:8c height00 
+next frame: 
+checksum:f1 sig:01 (01,00) width:c3 height00 
+checksum:85 sig:01 (01,00) width:b3 height00 
+next frame: 
+checksum:f1 sig:01 (01,00) width:c3 height00 
+checksum:82 sig:01 (01,00) width:b7 height00 
+checksum:97 sig:00 (01,00) width:62 height00 
+checksum:91 sig:01 (01,00) width:d0 height00 
+next frame: 
+checksum:ec sig:01 (01,00) width:c3 height00 
+checksum:a4 sig:00 (01,00) width:61 height00 
+next frame: 
+checksum:fe sig:01 (01,00) width:c3 height00 
+checksum:cb sig:01 (01,00) width:ba height00 
+checksum:d3 sig:00 (01,00) width:6a height00 
+next frame: 
+checksum:8f sig:01 (01,00) width:96 height00 
+checksum:9c sig:01 (01,00) width:e0 height00 
+next frame: 
+checksum:14 sig:02 (01,00) width:c0 height00 
+checksum:53 sig:01 (01,00) width:9d height00 
+checksum:90 sig:00 (01,00) width:5d height00 
+next frame: 
+checksum:5d sig:01 (01,00) width:94 height00 
+checksum:9f sig:01 (01,00) width:e2 height00 
+checksum:53 sig:01 (01,00) width:9d height00 
+next frame: 
+checksum:df sig:01 (01,00) width:c2 height00 
+checksum:ee sig:01 (01,00) width:ba height00 
+checksum:8c sig:00 (01,00) width:61 height00 
+next frame: 
+checksum:d3 sig:01 (01,00) width:af height00 
+checksum:60 sig:01 (01,00) width:a1 height00 
+next frame: 
+checksum:1c sig:02 (01,00) width:bf height00 
+checksum:88 sig:00 (01,00) width:61 height00 
+checksum:83 sig:01 (01,00) width:d8 height00 
+next frame: 
+checksum:50 sig:01 (01,00) width:99 height00 
+checksum:d6 sig:01 (01,00) width:bf height00 
+next frame: 
+checksum:c0 sig:01 (01,00) width:bc height00 
+checksum:2e sig:01 (01,00) width:9e height00 
+checksum:03 sig:01 (01,00) width:7e height00 
+next frame: 
+checksum:6e sig:01 (01,00) width:91 height00 
+checksum:d6 sig:01 (01,00) width:dd height00 
+checksum:56 sig:01 (01,00) width:97 height00 
+next frame: 
+checksum:0a sig:02 (01,00) width:be height00 
+checksum:2d sig:01 (01,00) width:8c height00 
+next frame: 
+checksum:13 sig:02 (01,00) width:bd height00 
+checksum:6f sig:00 (01,00) width:5e height00 
+checksum:80 sig:00 (01,00) width:61 height00 
+next frame: 
+checksum:12 sig:02 (01,00) width:be height00 
+checksum:7b sig:00 (01,00) width:60 height00 
+next frame: 
+checksum:ae sig:01 (01,00) width:bf height00 
+checksum:89 sig:01 (01,00) width:98 height00 
+checksum:7c sig:00 (01,00) width:60 height00 
+checksum:90 sig:00 (01,00) width:64 height00 
+next frame: 
+checksum:ba sig:01 (01,00) width:c1 height00 
+checksum:45 sig:01 (01,00) width:db height00 
+next frame: 
+checksum:fd sig:01 (01,00) width:c1 height00 
+checksum:77 sig:00 (01,00) width:60 height00 
+checksum:8b sig:00 (01,00) width:64 height00 
+next frame: 
+checksum:f8 sig:01 (01,00) width:c2 height00 
+checksum:c7 sig:00 (01,00) width:a8 height00 
+next frame: 
+checksum:f8 sig:01 (01,00) width:c2 height00 
+checksum:73 sig:00 (01,00) width:63 height00 
+checksum:89 sig:00 (01,00) width:67 height00 
+next frame: 
+checksum:f3 sig:01 (01,00) width:c4 height00 
+checksum:bf sig:00 (01,00) width:ab height00 
+checksum:75 sig:00 (01,00) width:63 height00 
+next frame: 
+checksum:e9 sig:01 (01,00) width:c7 height00 
+checksum:82 sig:00 (01,00) width:69 height00 
+next frame: 
+checksum:17 sig:02 (01,00) width:c8 height00 
+checksum:82 sig:00 (01,00) width:6c height00 
+next frame: 
+checksum:e5 sig:01 (01,00) width:c8 height00 
+checksum:38 sig:01 (01,00) width:aa height00 
+checksum:80 sig:00 (01,00) width:6e height00 
+next frame: 
+checksum:f3 sig:01 (01,00) width:ce height00 
+checksum:7f sig:00 (01,00) width:6f height00 
+checksum:8e sig:00 (01,00) width:75 height00 
+next frame: 
+checksum:f6 sig:01 (01,00) width:ce height00 
+next frame: 
+checksum:e0 sig:01 (01,00) width:cd height00 
+checksum:8d sig:00 (01,00) width:78 height00 
+next frame: 
+checksum:e9 sig:01 (01,00) width:d0 height00 
+checksum:87 sig:00 (01,00) width:78 height00 
+next frame: 
+checksum:e9 sig:01 (01,00) width:d2 height00 
+next frame: 
+checksum:de sig:01 (01,00) width:d4 height00 
+checksum:23 sig:01 (01,00) width:b1 height00 
+next frame: 
+checksum:d0 sig:01 (01,00) width:d4 height00 
+next frame: 
+checksum:df sig:01 (01,00) width:d4 height00 
+next frame: 
+checksum:df sig:01 (01,00) width:d5 height00 
+next frame: 
+checksum:c6 sig:01 (01,00) width:eb height00 
+checksum:ba sig:00 (01,00) width:a4 height00 
+checksum:db sig:00 (01,00) width:a6 height00 
+next frame: 
+checksum:cb sig:01 (01,00) width:d6 height00 
+next frame: 
+checksum:c6 sig:01 (01,00) width:d4 height00 
+next frame: 
+checksum:bd sig:01 (01,00) width:d6 height00 
+next frame: 
+checksum:bd sig:01 (01,00) width:d9 height00 
+next frame: 
+checksum:c6 sig:01 (01,00) width:db height00 
+next frame: 
+checksum:b8 sig:01 (01,00) width:dc height00 
+next frame: 
+checksum:ae sig:01 (01,00) width:e0 height00 
+checksum:0d sig:01 (01,00) width:c0 height00 
+next frame: 
+checksum:b0 sig:01 (01,00) width:e2 height00 
+next frame: 
+checksum:aa sig:01 (01,00) width:e3 height00 
+next frame: 
+checksum:ac sig:01 (01,00) width:e6 height00 
+next frame: 
+checksum:a0 sig:01 (01,00) width:ea height00 
+next frame: 
+checksum:9f sig:01 (01,00) width:eb height00 
+next frame: 
+checksum:93 sig:01 (01,00) width:f5 height00 
+checksum:c1 sig:00 (01,00) width:b5 height00 
+next frame: 
+checksum:9f sig:01 (01,00) width:ec height00 
+next frame: 
+checksum:ad sig:01 (01,00) width:ef height00 
+next frame: 
+checksum:ad sig:01 (01,00) width:ee height00 
+next frame: 
+checksum:a9 sig:01 (01,00) width:ef height00 
+next frame: 
+checksum:b1 sig:01 (01,00) width:f2 height00 
+next frame: 
+checksum:c1 sig:01 (01,00) width:f4 height00 
+next frame: 
+checksum:c3 sig:01 (01,00) width:f8 height00 
+next frame: 
+checksum:ce sig:01 (01,00) width:f5 height00 
+next frame: 
+checksum:d7 sig:01 (01,00) width:f8 height00 
+next frame: 
+checksum:e1 sig:01 (01,00) width:fa height00 
+next frame: 
+checksum:e3 sig:01 (01,00) width:fe height00 
+checksum:3f sig:01 (01,00) width:d6 height00 
+next frame: 
+checksum:f2 sig:01 (01,00) width:fe height00 
+next frame: 
+checksum:fa sig:01 (01,00) width:ff height00 
+next frame: 
+checksum:fe sig:01 (01,00) width:03 height01 
+next frame: 
+checksum:f9 sig:01 (01,00) width:07 height01 
+checksum:0e sig:01 (01,00) width:ea height00 
+next frame: 
+checksum:fc sig:01 (01,00) width:05 height01 
+checksum:1b sig:01 (01,00) width:eb height00 
+next frame: 
+checksum:00 sig:02 (01,00) width:05 height01 
+next frame: 
+checksum:0a sig:02 (01,00) width:0a height01 
+checksum:00 sig:01 (01,00) width:e0 height00 
+next frame: 
+checksum:13 sig:02 (01,00) width:07 height01 
+next frame: 
+checksum:0e sig:02 (01,00) width:08 height01 
+checksum:ea sig:00 (01,00) width:dd height00 
+next frame: 
+checksum:0f sig:02 (01,00) width:09 height01 
+checksum:ee sig:00 (01,00) width:de height00 
+checksum:0a sig:01 (01,00) width:e0 height00 
+next frame: 
+checksum:17 sig:02 (01,00) width:09 height01 
+checksum:44 sig:01 (01,00) width:ef height00 
+next frame: 
+checksum:13 sig:02 (01,00) width:0a height01 
+checksum:f7 sig:00 (01,00) width:e1 height00 
+next frame: 
+checksum:1a sig:02 (01,00) width:0a height01 
+next frame: 
+checksum:26 sig:02 (01,00) width:0c height01 
+checksum:54 sig:01 (01,00) width:f3 height00 
+next frame: 
+checksum:17 sig:02 (01,00) width:0c height01 
+checksum:f6 sig:00 (01,00) width:c7 height00 
+checksum:26 sig:01 (01,00) width:05 height01 
+next frame: 
+checksum:1a sig:02 (01,00) width:0d height01 
+checksum:1d sig:01 (01,00) width:e7 height00 
+next frame: 
+checksum:24 sig:02 (01,00) width:0d height01 
+checksum:31 sig:01 (01,00) width:08 height01 
+next frame: 
+checksum:24 sig:02 (01,00) width:0d height01 
+checksum:5a sig:01 (01,00) width:f7 height00 
+next frame: 
+checksum:20 sig:02 (01,00) width:0d height01 
+checksum:2c sig:01 (01,00) width:0a height01 
+next frame: 
+checksum:9b sig:01 (01,00) width:fb height00 
+checksum:1f sig:02 (01,00) width:0d height01 
+checksum:87 sig:01 (01,00) width:2e height01 
+next frame: 
+checksum:20 sig:02 (01,00) width:0e height01 
+checksum:65 sig:01 (01,00) width:fb height00 
+checksum:3b sig:01 (01,00) width:f1 height00 
+next frame: 
+checksum:27 sig:02 (01,00) width:0e height01 
+next frame: 
+checksum:23 sig:02 (01,00) width:0e height01 
+checksum:6b sig:01 (01,00) width:fe height00 
+next frame: 
+checksum:26 sig:02 (01,00) width:10 height01 
+checksum:74 sig:01 (01,00) width:ff height00 
+next frame: 
+checksum:28 sig:02 (01,00) width:13 height01 
+checksum:6a sig:01 (01,00) width:02 height01 
+checksum:e2 sig:00 (01,00) width:d0 height00 
+next frame: 
+checksum:24 sig:02 (01,00) width:12 height01 
+checksum:6a sig:01 (01,00) width:05 height01 
+next frame: 
+checksum:2a sig:02 (01,00) width:13 height01 
+checksum:84 sig:01 (01,00) width:08 height01 
+checksum:eb sig:00 (01,00) width:d6 height00 
+next frame: 
+checksum:4e sig:02 (01,00) width:14 height01 
+checksum:f2 sig:00 (01,00) width:da height00 
+next frame: 
+checksum:25 sig:02 (01,00) width:15 height01 
+checksum:86 sig:01 (01,00) width:10 height01 
+checksum:fa sig:00 (01,00) width:df height00 
+next frame: 
+checksum:23 sig:02 (01,00) width:15 height01 
+checksum:8d sig:01 (01,00) width:13 height01 
+checksum:a3 sig:01 (01,00) width:0f height01 
+next frame: 
+checksum:5f sig:02 (01,00) width:0f height01 
+next frame: 
+checksum:45 sig:02 (01,00) width:14 height01 
+checksum:7d sig:01 (01,00) width:12 height01 
+checksum:01 sig:01 (01,00) width:e3 height00 
+next frame: 
+checksum:2a sig:02 (01,00) width:12 height01 
+checksum:94 sig:01 (01,00) width:11 height01 
+checksum:02 sig:01 (01,00) width:e1 height00 
+next frame: 
+checksum:3c sig:02 (01,00) width:11 height01 
+checksum:95 sig:01 (01,00) width:0e height01 
+next frame: 
+checksum:33 sig:02 (01,00) width:12 height01 
+checksum:a3 sig:01 (01,00) width:0c height01 
+checksum:01 sig:01 (01,00) width:dd height00 
+next frame: 
+checksum:31 sig:02 (01,00) width:12 height01 
+checksum:71 sig:01 (01,00) width:0b height01 
+next frame: 
+checksum:3a sig:02 (01,00) width:13 height01 
+checksum:81 sig:01 (01,00) width:0d height01 
+checksum:06 sig:01 (01,00) width:dd height00 
+checksum:3f sig:01 (01,00) width:de height00 
+next frame: 
+checksum:33 sig:02 (01,00) width:15 height01 
+checksum:71 sig:01 (01,00) width:0f height01 
+next frame: 
+checksum:30 sig:02 (01,00) width:16 height01 
+checksum:68 sig:01 (01,00) width:13 height01 
+checksum:99 sig:01 (01,00) width:11 height01 
+next frame: 
+checksum:54 sig:02 (01,00) width:18 height01 
+checksum:7b sig:01 (01,00) width:18 height01 
+next frame: 
+checksum:47 sig:02 (01,00) width:19 height01 
+checksum:68 sig:01 (01,00) width:1d height01 
+next frame: 
+checksum:6f sig:02 (01,00) width:15 height01 
+next frame: 
+checksum:29 sig:02 (01,00) width:1d height01 
+checksum:82 sig:01 (01,00) width:20 height01 
+checksum:af sig:01 (01,00) width:1d height01 
+next frame: 
+checksum:2f sig:02 (01,00) width:1b height01 
+checksum:65 sig:01 (01,00) width:21 height01 
+checksum:97 sig:01 (01,00) width:1c height01 
+next frame: 
+checksum:32 sig:02 (01,00) width:1d height01 
+checksum:66 sig:01 (01,00) width:23 height01 
+next frame: 
+checksum:48 sig:02 (01,00) width:1c height01 
+checksum:70 sig:01 (01,00) width:25 height01 
+checksum:2c sig:01 (01,00) width:f8 height00 
+next frame: 
+checksum:4d sig:02 (01,00) width:1c height01 
+checksum:70 sig:01 (01,00) width:28 height01 
+next frame: 
+checksum:2b sig:02 (01,00) width:1d height01 
+checksum:b4 sig:01 (01,00) width:22 height01 
+checksum:64 sig:01 (01,00) width:27 height01 
+checksum:2f sig:01 (01,00) width:fa height00 
+next frame: 
+checksum:4e sig:02 (01,00) width:1d height01 
+checksum:64 sig:01 (01,00) width:28 height01 
+next frame: 
+checksum:3e sig:02 (01,00) width:1f height01 
+checksum:73 sig:01 (01,00) width:29 height01 
+checksum:32 sig:01 (01,00) width:fd height00 
+next frame: 
+checksum:24 sig:02 (01,00) width:1e height01 
+checksum:ba sig:01 (01,00) width:28 height01 
+next frame: 
+checksum:24 sig:02 (01,00) width:21 height01 
+checksum:9b sig:01 (01,00) width:29 height01 
+checksum:54 sig:01 (01,00) width:2c height01 
+checksum:39 sig:01 (01,00) width:03 height01 
+next frame: 
+checksum:43 sig:02 (01,00) width:1f height01 
+checksum:5c sig:01 (01,00) width:2f height01 
+next frame: 
+checksum:23 sig:02 (01,00) width:1e height01 
+checksum:cc sig:01 (01,00) width:25 height01 
+checksum:5a sig:01 (01,00) width:2f height01 
+next frame: 
+checksum:50 sig:02 (01,00) width:21 height01 
+checksum:66 sig:01 (01,00) width:31 height01 
+next frame: 
+checksum:26 sig:02 (01,00) width:1d height01 
+checksum:da sig:01 (01,00) width:25 height01 
+next frame: 
+checksum:42 sig:02 (01,00) width:1f height01 
+checksum:53 sig:01 (01,00) width:31 height01 
+checksum:94 sig:01 (01,00) width:2d height01 
+checksum:43 sig:01 (01,00) width:09 height01 
+next frame: 
+checksum:4c sig:02 (01,00) width:21 height01 
+checksum:59 sig:01 (01,00) width:32 height01 
+next frame: 
+checksum:3e sig:02 (01,00) width:21 height01 
+checksum:4f sig:01 (01,00) width:34 height01 
+checksum:88 sig:01 (01,00) width:33 height01 
+next frame: 
+checksum:2d sig:02 (01,00) width:1f height01 
+checksum:ed sig:01 (01,00) width:29 height01 
+next frame: 
+checksum:30 sig:02 (01,00) width:1f height01 
+checksum:ed sig:01 (01,00) width:28 height01 
+checksum:58 sig:01 (01,00) width:37 height01 
+next frame: 
+checksum:2d sig:02 (01,00) width:1f height01 
+checksum:f3 sig:01 (01,00) width:2b height01 
+checksum:53 sig:01 (01,00) width:38 height01 
+next frame: 
+checksum:26 sig:02 (01,00) width:23 height01 
+checksum:b2 sig:01 (01,00) width:35 height01 
+checksum:4f sig:01 (01,00) width:3a height01 
+next frame: 
+checksum:28 sig:02 (01,00) width:22 height01 
+checksum:ef sig:01 (01,00) width:2c height01 
+next frame: 
+checksum:2a sig:02 (01,00) width:22 height01 
+checksum:ed sig:01 (01,00) width:2b height01 
+checksum:90 sig:01 (01,00) width:37 height01 
+next frame: 
+checksum:24 sig:02 (01,00) width:23 height01 
+checksum:ec sig:01 (01,00) width:2c height01 
+next frame: 
+checksum:19 sig:02 (01,00) width:24 height01 
+checksum:f5 sig:01 (01,00) width:2b height01 
+checksum:87 sig:01 (01,00) width:36 height01 
+checksum:4c sig:01 (01,00) width:11 height01 
+next frame: 
+checksum:2d sig:02 (01,00) width:21 height01 
+checksum:e1 sig:01 (01,00) width:2c height01 
+next frame: 
+checksum:1e sig:02 (01,00) width:23 height01 
+checksum:f1 sig:01 (01,00) width:23 height01 
+checksum:8e sig:01 (01,00) width:2b height01 
+next frame: 
+checksum:24 sig:02 (01,00) width:23 height01 
+checksum:f4 sig:01 (01,00) width:2c height01 
+next frame: 
+checksum:4a sig:02 (01,00) width:23 height01 
+checksum:4d sig:01 (01,00) width:12 height01 
+next frame: 
+checksum:22 sig:02 (01,00) width:23 height01 
+checksum:e3 sig:01 (01,00) width:2d height01 
+checksum:ac sig:01 (01,00) width:37 height01 
+checksum:57 sig:01 (01,00) width:15 height01 
+next frame: 
+checksum:39 sig:02 (01,00) width:24 height01 
+checksum:8d sig:01 (01,00) width:37 height01 
+next frame: 
+checksum:f0 sig:01 (01,00) width:2e height01 
+checksum:2b sig:02 (01,00) width:25 height01 
+checksum:78 sig:01 (01,00) width:3a height01 
+next frame: 
+checksum:46 sig:02 (01,00) width:25 height01 
+next frame: 
+checksum:27 sig:02 (01,00) width:24 height01 
+checksum:fb sig:01 (01,00) width:2f height01 
+next frame: 
+checksum:29 sig:02 (01,00) width:26 height01 
+checksum:e7 sig:01 (01,00) width:32 height01 
+checksum:5b sig:01 (01,00) width:1c height01 
+next frame: 
+checksum:29 sig:02 (01,00) width:26 height01 
+checksum:86 sig:01 (01,00) width:3b height01 
+checksum:91 sig:01 (01,00) width:3a height01 
+next frame: 
+checksum:27 sig:02 (01,00) width:26 height01 
+checksum:d6 sig:01 (01,00) width:33 height01 
+next frame: 
+checksum:3c sig:02 (01,00) width:28 height01 
+next frame: 
+checksum:12 sig:02 (01,00) width:29 height01 
+checksum:e5 sig:01 (01,00) width:34 height01 
+checksum:dd sig:01 (01,00) width:1a height01 
+next frame: 
+checksum:20 sig:02 (01,00) width:29 height01 
+checksum:d5 sig:01 (01,00) width:35 height01 
+checksum:b7 sig:01 (01,00) width:3a height01 
+next frame: 
+checksum:1b sig:02 (01,00) width:2a height01 
+checksum:e6 sig:01 (01,00) width:36 height01 
+next frame: 
+checksum:1b sig:02 (01,00) width:2b height01 
+checksum:df sig:01 (01,00) width:36 height01 
+checksum:69 sig:01 (01,00) width:2a height01 
+next frame: 
+checksum:15 sig:02 (01,00) width:2d height01 
+checksum:d9 sig:01 (01,00) width:38 height01 
+next frame: 
+checksum:24 sig:02 (01,00) width:2c height01 
+checksum:da sig:01 (01,00) width:3a height01 
