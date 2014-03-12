@@ -1,591 +1,591 @@
-checksum:04 sig:00 (00,00) width:00 height00 
+checksum:4 sig:0 (0,0) width:0 height:0 oursum0
 next frame: 
-checksum:e5 sig:01 (01,00) width:3b height01 
+checksum:485 sig:1 (315,105) width:10 height:54 oursum485
 next frame: 
-checksum:f5 sig:01 (01,00) width:32 height01 
+checksum:501 sig:1 (306,107) width:28 height:59 oursum501
 next frame: 
-checksum:fa sig:01 (01,00) width:2e height01 
-checksum:96 sig:01 (01,00) width:3a height01 
+checksum:506 sig:1 (302,107) width:35 height:61 oursum506
+checksum:406 sig:1 (314,57) width:12 height:22 oursum406
 next frame: 
-checksum:ff sig:01 (01,00) width:2b height01 
-checksum:a0 sig:01 (01,00) width:36 height01 
-checksum:5c sig:01 (01,00) width:3c height01 
+checksum:511 sig:1 (299,108) width:41 height:62 oursum511
+checksum:416 sig:1 (310,52) width:19 height:34 oursum416
+checksum:348 sig:1 (316,1809) width:1024 height:0 oursum3150
 next frame: 
-checksum:fe sig:01 (01,00) width:29 height01 
-checksum:8c sig:01 (01,00) width:34 height01 
-checksum:98 sig:01 (01,00) width:32 height01 
+checksum:510 sig:1 (297,108) width:45 height:59 oursum510
+checksum:396 sig:1 (308,48) width:24 height:15 oursum396
+checksum:408 sig:1 (306,66) width:28 height:7 oursum408
 next frame: 
-checksum:03 sig:02 (01,00) width:26 height01 
-checksum:b1 sig:01 (01,00) width:30 height01 
+checksum:515 sig:1 (294,109) width:52 height:59 oursum515
+checksum:433 sig:1 (304,42) width:31 height:55 oursum433
 next frame: 
-checksum:0b sig:02 (01,00) width:24 height01 
-checksum:a9 sig:01 (01,00) width:2b height01 
+checksum:523 sig:1 (292,108) width:56 height:66 oursum523
+checksum:425 sig:1 (299,48) width:36 height:41 oursum425
 next frame: 
-checksum:05 sig:02 (01,00) width:21 height01 
-checksum:8a sig:01 (01,00) width:27 height01 
+checksum:517 sig:1 (289,104) width:61 height:62 oursum517
+checksum:394 sig:1 (295,31) width:36 height:31 oursum394
 next frame: 
-checksum:1c sig:02 (01,00) width:1f height01 
-checksum:43 sig:01 (01,00) width:28 height01 
+checksum:540 sig:1 (287,76) width:66 height:110 oursum540
+checksum:323 sig:1 (296,12) width:12 height:2 oursum323
 next frame: 
-checksum:0b sig:02 (01,00) width:1d height01 
-checksum:66 sig:01 (01,00) width:1d height01 
+checksum:523 sig:1 (285,97) width:69 height:71 oursum523
+checksum:358 sig:1 (285,20) width:32 height:20 oursum358
 next frame: 
-checksum:11 sig:02 (01,00) width:1c height01 
-checksum:64 sig:01 (01,00) width:17 height01 
+checksum:529 sig:1 (284,84) width:71 height:89 oursum529
+checksum:356 sig:1 (279,17) width:35 height:24 oursum356
 next frame: 
-checksum:09 sig:02 (01,00) width:19 height01 
-checksum:4e sig:01 (01,00) width:14 height01 
-checksum:35 sig:01 (01,00) width:06 height01 
+checksum:521 sig:1 (281,91) width:77 height:71 oursum521
+checksum:334 sig:1 (276,13) width:27 height:17 oursum334
+checksum:309 sig:1 (262,31) width:13 height:2 oursum309
 next frame: 
-checksum:13 sig:02 (01,00) width:17 height01 
-checksum:4a sig:01 (01,00) width:0c height01 
+checksum:531 sig:1 (279,94) width:82 height:75 oursum531
+checksum:330 sig:1 (268,13) width:21 height:27 oursum330
 next frame: 
-checksum:16 sig:02 (01,00) width:14 height01 
-checksum:4c sig:01 (01,00) width:04 height01 
-checksum:11 sig:01 (01,00) width:e0 height00 
+checksum:534 sig:1 (276,93) width:87 height:77 oursum534
+checksum:332 sig:1 (260,13) width:31 height:27 oursum332
+checksum:273 sig:1 (224,37) width:9 height:2 oursum273
 next frame: 
-checksum:17 sig:02 (01,00) width:11 height01 
-checksum:41 sig:01 (01,00) width:02 height01 
-checksum:44 sig:01 (01,00) width:0d height01 
+checksum:535 sig:1 (273,92) width:93 height:76 oursum535
+checksum:321 sig:1 (258,7) width:41 height:14 oursum321
+checksum:324 sig:1 (269,39) width:10 height:5 oursum324
 next frame: 
-checksum:20 sig:02 (01,00) width:0d height01 
-checksum:50 sig:01 (01,00) width:fe height00 
+checksum:544 sig:1 (269,93) width:102 height:79 oursum544
+checksum:336 sig:1 (254,15) width:36 height:30 oursum336
 next frame: 
-checksum:1c sig:02 (01,00) width:0a height01 
-checksum:32 sig:01 (01,00) width:00 height01 
-checksum:f9 sig:00 (01,00) width:c9 height00 
+checksum:540 sig:1 (266,91) width:108 height:74 oursum540
+checksum:306 sig:1 (256,28) width:15 height:6 oursum306
+checksum:249 sig:1 (201,36) width:9 height:2 oursum249
 next frame: 
-checksum:1d sig:02 (01,00) width:05 height01 
-checksum:49 sig:01 (01,00) width:eb height00 
+checksum:541 sig:1 (261,92) width:112 height:75 oursum541
+checksum:329 sig:1 (235,16) width:44 height:33 oursum329
 next frame: 
-checksum:1f sig:02 (01,00) width:00 height01 
-checksum:ec sig:00 (01,00) width:ba height00 
+checksum:543 sig:1 (256,92) width:115 height:79 oursum543
+checksum:236 sig:1 (186,36) width:10 height:3 oursum236
 next frame: 
-checksum:25 sig:02 (01,00) width:fb height00 
+checksum:549 sig:1 (251,95) width:121 height:81 oursum549
 next frame: 
-checksum:17 sig:02 (01,00) width:f4 height00 
-checksum:dc sig:00 (01,00) width:a9 height00 
-checksum:01 sig:01 (01,00) width:c4 height00 
+checksum:535 sig:1 (244,95) width:118 height:77 oursum535
+checksum:220 sig:1 (169,38) width:9 height:3 oursum220
+checksum:257 sig:1 (196,48) width:9 height:3 oursum257
 next frame: 
-checksum:1b sig:02 (01,00) width:ee height00 
-checksum:d4 sig:00 (01,00) width:a0 height00 
+checksum:539 sig:1 (238,95) width:119 height:86 oursum539
+checksum:212 sig:1 (160,40) width:9 height:2 oursum212
 next frame: 
-checksum:23 sig:02 (01,00) width:eb height00 
+checksum:547 sig:1 (235,103) width:126 height:82 oursum547
 next frame: 
-checksum:3a sig:02 (01,00) width:e2 height00 
-checksum:cc sig:00 (01,00) width:92 height00 
+checksum:570 sig:1 (226,73) width:123 height:147 oursum570
+checksum:204 sig:1 (146,47) width:7 height:3 oursum204
 next frame: 
-checksum:41 sig:02 (01,00) width:e0 height00 
-checksum:cf sig:00 (01,00) width:8e height00 
+checksum:577 sig:1 (224,76) width:128 height:148 oursum577
+checksum:207 sig:1 (142,53) width:7 height:4 oursum207
 next frame: 
-checksum:1b sig:02 (01,00) width:da height00 
-checksum:d1 sig:00 (01,00) width:89 height00 
-checksum:e0 sig:00 (01,00) width:cc height00 
+checksum:539 sig:1 (218,115) width:129 height:76 oursum539
+checksum:209 sig:1 (137,58) width:8 height:5 oursum209
+checksum:224 sig:1 (204,11) width:4 height:4 oursum224
 next frame: 
-checksum:21 sig:02 (01,00) width:d6 height00 
-checksum:a2 sig:00 (01,00) width:7f height00 
-checksum:b4 sig:00 (01,00) width:99 height00 
+checksum:545 sig:1 (214,117) width:134 height:79 oursum545
+checksum:162 sig:1 (127,8) width:9 height:17 oursum162
+checksum:180 sig:1 (153,14) width:5 height:7 oursum180
 next frame: 
-checksum:3e sig:02 (01,00) width:d3 height00 
-checksum:d1 sig:00 (01,00) width:81 height00 
+checksum:574 sig:1 (211,95) width:134 height:133 oursum574
+checksum:209 sig:1 (129,67) width:8 height:4 oursum209
 next frame: 
-checksum:27 sig:02 (01,00) width:cf height00 
-checksum:a2 sig:00 (01,00) width:74 height00 
-checksum:d3 sig:00 (01,00) width:93 height00 
+checksum:551 sig:1 (207,130) width:133 height:80 oursum551
+checksum:162 sig:1 (116,11) width:12 height:22 oursum162
+checksum:211 sig:1 (147,45) width:5 height:13 oursum211
 next frame: 
-checksum:13 sig:02 (01,00) width:d9 height00 
-checksum:97 sig:00 (01,00) width:70 height00 
+checksum:531 sig:1 (217,137) width:105 height:71 oursum531
+checksum:151 sig:1 (112,13) width:12 height:13 oursum151
 next frame: 
-checksum:27 sig:02 (01,00) width:ca height00 
-checksum:b4 sig:00 (01,00) width:6d height00 
-checksum:45 sig:01 (01,00) width:9a height00 
+checksum:551 sig:1 (202,89) width:137 height:122 oursum551
+checksum:180 sig:1 (109,29) width:11 height:30 oursum180
+checksum:325 sig:1 (154,157) width:10 height:3 oursum325
 next frame: 
-checksum:f7 sig:01 (01,00) width:cc height00 
-checksum:c5 sig:01 (01,00) width:d2 height00 
-checksum:5e sig:01 (01,00) width:95 height00 
+checksum:503 sig:1 (204,76) width:132 height:90 oursum503
+checksum:453 sig:1 (210,178) width:53 height:11 oursum453
+checksum:350 sig:1 (149,146) width:26 height:28 oursum350
 next frame: 
-checksum:fc sig:01 (01,00) width:cb height00 
-checksum:ae sig:00 (01,00) width:6b height00 
-checksum:63 sig:01 (01,00) width:b5 height00 
+checksum:508 sig:1 (203,83) width:130 height:91 oursum508
+checksum:174 sig:1 (107,37) width:12 height:17 oursum174
+checksum:355 sig:1 (181,138) width:31 height:4 oursum355
 next frame: 
-checksum:16 sig:02 (01,00) width:ca height00 
-checksum:67 sig:01 (01,00) width:9d height00 
+checksum:534 sig:1 (202,92) width:136 height:103 oursum534
+checksum:359 sig:1 (157,174) width:14 height:13 oursum359
 next frame: 
-checksum:d1 sig:01 (01,00) width:ba height00 
-checksum:ac sig:01 (01,00) width:af height00 
-checksum:b4 sig:01 (01,00) width:e1 height00 
+checksum:465 sig:1 (186,90) width:98 height:90 oursum465
+checksum:428 sig:1 (175,160) width:69 height:23 oursum428
+checksum:436 sig:1 (225,183) width:20 height:7 oursum436
 next frame: 
-checksum:48 sig:02 (01,00) width:c5 height00 
-checksum:7f sig:00 (01,00) width:67 height00 
+checksum:584 sig:1 (197,117) width:127 height:142 oursum584
+checksum:127 sig:1 (103,3) width:13 height:7 oursum127
 next frame: 
-checksum:09 sig:02 (01,00) width:c4 height00 
-checksum:7f sig:00 (01,00) width:6b height00 
-checksum:81 sig:01 (01,00) width:b4 height00 
+checksum:521 sig:1 (196,93) width:127 height:104 oursum521
+checksum:127 sig:1 (107,5) width:6 height:8 oursum127
+checksum:385 sig:1 (180,171) width:24 height:9 oursum385
 next frame: 
-checksum:96 sig:01 (01,00) width:a3 height00 
-checksum:7f sig:01 (01,00) width:d8 height00 
-checksum:a8 sig:01 (01,00) width:c4 height00 
+checksum:406 sig:1 (163,88) width:61 height:93 oursum406
+checksum:383 sig:1 (216,128) width:31 height:7 oursum383
+checksum:424 sig:1 (196,154) width:49 height:24 oursum424
 next frame: 
-checksum:00 sig:02 (01,00) width:c6 height00 
-checksum:82 sig:01 (01,00) width:d7 height00 
+checksum:512 sig:1 (198,84) width:134 height:95 oursum512
+checksum:386 sig:1 (215,147) width:15 height:8 oursum386
 next frame: 
-checksum:12 sig:02 (01,00) width:cd height00 
-checksum:7e sig:01 (01,00) width:aa height00 
-checksum:42 sig:01 (01,00) width:8c height00 
+checksum:530 sig:1 (205,84) width:147 height:93 oursum530
+checksum:382 sig:1 (170,183) width:25 height:3 oursum382
+checksum:322 sig:1 (140,158) width:19 height:4 oursum322
 next frame: 
-checksum:f1 sig:01 (01,00) width:c3 height00 
-checksum:85 sig:01 (01,00) width:b3 height00 
+checksum:497 sig:1 (195,79) width:130 height:92 oursum497
+checksum:389 sig:1 (179,147) width:31 height:31 oursum389
 next frame: 
-checksum:f1 sig:01 (01,00) width:c3 height00 
-checksum:82 sig:01 (01,00) width:b7 height00 
-checksum:97 sig:00 (01,00) width:62 height00 
-checksum:91 sig:01 (01,00) width:d0 height00 
+checksum:497 sig:1 (195,77) width:135 height:89 oursum497
+checksum:386 sig:1 (183,134) width:58 height:10 oursum386
+checksum:151 sig:1 (98,31) width:11 height:10 oursum151
+checksum:401 sig:1 (208,172) width:14 height:6 oursum401
 next frame: 
-checksum:ec sig:01 (01,00) width:c3 height00 
-checksum:a4 sig:00 (01,00) width:61 height00 
+checksum:492 sig:1 (195,78) width:132 height:86 oursum492
+checksum:164 sig:1 (97,33) width:11 height:22 oursum164
 next frame: 
-checksum:fe sig:01 (01,00) width:c3 height00 
-checksum:cb sig:01 (01,00) width:ba height00 
-checksum:d3 sig:00 (01,00) width:6a height00 
+checksum:510 sig:1 (195,77) width:135 height:102 oursum510
+checksum:459 sig:1 (186,153) width:98 height:21 oursum459
+checksum:211 sig:1 (106,90) width:10 height:4 oursum211
 next frame: 
-checksum:8f sig:01 (01,00) width:96 height00 
-checksum:9c sig:01 (01,00) width:e0 height00 
+checksum:399 sig:1 (150,90) width:51 height:107 oursum399
+checksum:412 sig:1 (224,111) width:61 height:15 oursum412
 next frame: 
-checksum:14 sig:02 (01,00) width:c0 height00 
-checksum:53 sig:01 (01,00) width:9d height00 
-checksum:90 sig:00 (01,00) width:5d height00 
+checksum:532 sig:1 (192,84) width:135 height:120 oursum532
+checksum:339 sig:1 (157,164) width:14 height:3 oursum339
+checksum:144 sig:1 (93,26) width:11 height:13 oursum144
 next frame: 
-checksum:5d sig:01 (01,00) width:94 height00 
-checksum:9f sig:01 (01,00) width:e2 height00 
-checksum:53 sig:01 (01,00) width:9d height00 
+checksum:349 sig:1 (148,70) width:48 height:82 oursum349
+checksum:415 sig:1 (226,106) width:66 height:16 oursum415
+checksum:339 sig:1 (157,123) width:47 height:11 oursum339
 next frame: 
-checksum:df sig:01 (01,00) width:c2 height00 
-checksum:ee sig:01 (01,00) width:ba height00 
-checksum:8c sig:00 (01,00) width:61 height00 
+checksum:479 sig:1 (194,68) width:141 height:75 oursum479
+checksum:494 sig:1 (186,137) width:119 height:51 oursum494
+checksum:140 sig:1 (97,21) width:6 height:15 oursum140
 next frame: 
-checksum:d3 sig:01 (01,00) width:af height00 
-checksum:60 sig:01 (01,00) width:a1 height00 
+checksum:467 sig:1 (175,86) width:100 height:105 oursum467
+checksum:352 sig:1 (161,160) width:20 height:10 oursum352
 next frame: 
-checksum:1c sig:02 (01,00) width:bf height00 
-checksum:88 sig:00 (01,00) width:61 height00 
-checksum:83 sig:01 (01,00) width:d8 height00 
+checksum:540 sig:1 (191,86) width:134 height:128 oursum540
+checksum:136 sig:1 (97,15) width:6 height:17 oursum136
+checksum:387 sig:1 (216,157) width:11 height:2 oursum387
 next frame: 
-checksum:50 sig:01 (01,00) width:99 height00 
-checksum:d6 sig:01 (01,00) width:bf height00 
+checksum:336 sig:1 (153,69) width:59 height:54 oursum336
+checksum:470 sig:1 (191,133) width:106 height:39 oursum470
 next frame: 
-checksum:c0 sig:01 (01,00) width:bc height00 
-checksum:2e sig:01 (01,00) width:9e height00 
-checksum:03 sig:01 (01,00) width:7e height00 
+checksum:448 sig:1 (188,58) width:127 height:74 oursum448
+checksum:302 sig:1 (158,114) width:13 height:16 oursum302
+checksum:259 sig:1 (126,112) width:12 height:8 oursum259
 next frame: 
-checksum:6e sig:01 (01,00) width:91 height00 
-checksum:d6 sig:01 (01,00) width:dd height00 
-checksum:56 sig:01 (01,00) width:97 height00 
+checksum:366 sig:1 (145,69) width:49 height:102 oursum366
+checksum:470 sig:1 (221,109) width:73 height:66 oursum470
+checksum:342 sig:1 (151,148) width:21 height:21 oursum342
 next frame: 
-checksum:0a sig:02 (01,00) width:be height00 
-checksum:2d sig:01 (01,00) width:8c height00 
+checksum:522 sig:1 (190,71) width:138 height:122 oursum522
+checksum:301 sig:1 (140,141) width:12 height:7 oursum301
 next frame: 
-checksum:13 sig:02 (01,00) width:bd height00 
-checksum:6f sig:00 (01,00) width:5e height00 
-checksum:80 sig:00 (01,00) width:61 height00 
+checksum:531 sig:1 (189,77) width:139 height:125 oursum531
+checksum:111 sig:1 (94,3) width:6 height:7 oursum111
+checksum:128 sig:1 (97,19) width:6 height:5 oursum128
 next frame: 
-checksum:12 sig:02 (01,00) width:be height00 
-checksum:7b sig:00 (01,00) width:60 height00 
+checksum:530 sig:1 (190,74) width:135 height:130 oursum530
+checksum:123 sig:1 (96,15) width:7 height:4 oursum123
 next frame: 
-checksum:ae sig:01 (01,00) width:bf height00 
-checksum:89 sig:01 (01,00) width:98 height00 
-checksum:7c sig:00 (01,00) width:60 height00 
-checksum:90 sig:00 (01,00) width:64 height00 
+checksum:430 sig:1 (191,41) width:136 height:61 oursum430
+checksum:393 sig:1 (152,111) width:67 height:62 oursum393
+checksum:124 sig:1 (96,13) width:8 height:6 oursum124
+checksum:144 sig:1 (100,33) width:8 height:2 oursum144
 next frame: 
-checksum:ba sig:01 (01,00) width:c1 height00 
-checksum:45 sig:01 (01,00) width:db height00 
+checksum:442 sig:1 (193,40) width:138 height:70 oursum442
+checksum:325 sig:1 (219,86) width:16 height:3 oursum325
 next frame: 
-checksum:fd sig:01 (01,00) width:c1 height00 
-checksum:77 sig:00 (01,00) width:60 height00 
-checksum:8b sig:00 (01,00) width:64 height00 
+checksum:509 sig:1 (193,100) width:140 height:75 oursum509
+checksum:119 sig:1 (96,8) width:8 height:6 oursum119
+checksum:139 sig:1 (100,28) width:7 height:3 oursum139
 next frame: 
-checksum:f8 sig:01 (01,00) width:c2 height00 
-checksum:c7 sig:00 (01,00) width:a8 height00 
+checksum:504 sig:1 (194,91) width:140 height:78 oursum504
+checksum:199 sig:1 (168,8) width:5 height:17 oursum199
 next frame: 
-checksum:f8 sig:01 (01,00) width:c2 height00 
-checksum:73 sig:00 (01,00) width:63 height00 
-checksum:89 sig:00 (01,00) width:67 height00 
+checksum:504 sig:1 (194,91) width:136 height:82 oursum504
+checksum:115 sig:1 (99,2) width:8 height:5 oursum115
+checksum:137 sig:1 (103,22) width:8 height:3 oursum137
 next frame: 
-checksum:f3 sig:01 (01,00) width:c4 height00 
-checksum:bf sig:00 (01,00) width:ab height00 
-checksum:75 sig:00 (01,00) width:63 height00 
+checksum:499 sig:1 (196,87) width:137 height:78 oursum499
+checksum:191 sig:1 (171,4) width:6 height:9 oursum191
+checksum:117 sig:1 (99,2) width:11 height:4 oursum117
 next frame: 
-checksum:e9 sig:01 (01,00) width:c7 height00 
-checksum:82 sig:00 (01,00) width:69 height00 
+checksum:489 sig:1 (199,76) width:136 height:77 oursum489
+checksum:130 sig:1 (105,15) width:7 height:2 oursum130
 next frame: 
-checksum:17 sig:02 (01,00) width:c8 height00 
-checksum:82 sig:00 (01,00) width:6c height00 
+checksum:535 sig:1 (200,66) width:136 height:132 oursum535
+checksum:130 sig:1 (108,11) width:6 height:4 oursum130
 next frame: 
-checksum:e5 sig:01 (01,00) width:c8 height00 
-checksum:38 sig:01 (01,00) width:aa height00 
-checksum:80 sig:00 (01,00) width:6e height00 
+checksum:485 sig:1 (200,73) width:132 height:79 oursum485
+checksum:312 sig:1 (170,127) width:11 height:3 oursum312
+checksum:128 sig:1 (110,8) width:7 height:2 oursum128
 next frame: 
-checksum:f3 sig:01 (01,00) width:ce height00 
-checksum:7f sig:00 (01,00) width:6f height00 
-checksum:8e sig:00 (01,00) width:75 height00 
+checksum:499 sig:1 (206,76) width:140 height:76 oursum499
+checksum:127 sig:1 (111,2) width:8 height:5 oursum127
+checksum:142 sig:1 (117,14) width:6 height:4 oursum142
 next frame: 
-checksum:f6 sig:01 (01,00) width:ce height00 
+checksum:502 sig:1 (206,69) width:136 height:90 oursum502
 next frame: 
-checksum:e0 sig:01 (01,00) width:cd height00 
-checksum:8d sig:00 (01,00) width:78 height00 
+checksum:480 sig:1 (205,64) width:133 height:77 oursum480
+checksum:141 sig:1 (120,7) width:8 height:5 oursum141
 next frame: 
-checksum:e9 sig:01 (01,00) width:d0 height00 
-checksum:87 sig:00 (01,00) width:78 height00 
+checksum:489 sig:1 (208,61) width:137 height:82 oursum489
+checksum:135 sig:1 (120,2) width:7 height:5 oursum135
 next frame: 
-checksum:e9 sig:01 (01,00) width:d2 height00 
+checksum:489 sig:1 (210,56) width:134 height:88 oursum489
 next frame: 
-checksum:de sig:01 (01,00) width:d4 height00 
-checksum:23 sig:01 (01,00) width:b1 height00 
+checksum:478 sig:1 (212,50) width:137 height:78 oursum478
+checksum:291 sig:1 (177,98) width:12 height:3 oursum291
 next frame: 
-checksum:d0 sig:01 (01,00) width:d4 height00 
+checksum:464 sig:1 (212,44) width:135 height:72 oursum464
 next frame: 
-checksum:df sig:01 (01,00) width:d4 height00 
+checksum:479 sig:1 (212,43) width:137 height:86 oursum479
 next frame: 
-checksum:df sig:01 (01,00) width:d5 height00 
+checksum:479 sig:1 (213,44) width:133 height:88 oursum479
 next frame: 
-checksum:c6 sig:01 (01,00) width:eb height00 
-checksum:ba sig:00 (01,00) width:a4 height00 
-checksum:db sig:00 (01,00) width:a6 height00 
+checksum:454 sig:1 (235,41) width:97 height:80 oursum454
+checksum:186 sig:1 (164,2) width:14 height:5 oursum186
+checksum:219 sig:1 (166,37) width:10 height:5 oursum219
 next frame: 
-checksum:cb sig:01 (01,00) width:d6 height00 
+checksum:459 sig:1 (214,37) width:132 height:75 oursum459
 next frame: 
-checksum:c6 sig:01 (01,00) width:d4 height00 
+checksum:454 sig:1 (212,37) width:129 height:75 oursum454
 next frame: 
-checksum:bd sig:01 (01,00) width:d6 height00 
+checksum:445 sig:1 (214,34) width:128 height:68 oursum445
 next frame: 
-checksum:bd sig:01 (01,00) width:d9 height00 
+checksum:445 sig:1 (217,33) width:128 height:66 oursum445
 next frame: 
-checksum:c6 sig:01 (01,00) width:db height00 
+checksum:454 sig:1 (219,35) width:128 height:71 oursum454
 next frame: 
-checksum:b8 sig:01 (01,00) width:dc height00 
+checksum:440 sig:1 (220,30) width:128 height:61 oursum440
 next frame: 
-checksum:ae sig:01 (01,00) width:e0 height00 
-checksum:0d sig:01 (01,00) width:c0 height00 
+checksum:430 sig:1 (224,27) width:124 height:54 oursum430
+checksum:269 sig:1 (192,64) width:10 height:2 oursum269
 next frame: 
-checksum:b0 sig:01 (01,00) width:e2 height00 
+checksum:432 sig:1 (226,27) width:123 height:55 oursum432
 next frame: 
-checksum:aa sig:01 (01,00) width:e3 height00 
+checksum:426 sig:1 (227,26) width:120 height:52 oursum426
 next frame: 
-checksum:ac sig:01 (01,00) width:e6 height00 
+checksum:428 sig:1 (230,25) width:121 height:51 oursum428
 next frame: 
-checksum:a0 sig:01 (01,00) width:ea height00 
+checksum:416 sig:1 (234,22) width:114 height:45 oursum416
 next frame: 
-checksum:9f sig:01 (01,00) width:eb height00 
+checksum:415 sig:1 (235,20) width:119 height:40 oursum415
 next frame: 
-checksum:93 sig:01 (01,00) width:f5 height00 
-checksum:c1 sig:00 (01,00) width:b5 height00 
+checksum:403 sig:1 (245,21) width:94 height:42 oursum403
+checksum:193 sig:1 (181,1) width:8 height:2 oursum193
 next frame: 
-checksum:9f sig:01 (01,00) width:ec height00 
+checksum:415 sig:1 (236,21) width:115 height:42 oursum415
 next frame: 
-checksum:ad sig:01 (01,00) width:ef height00 
+checksum:429 sig:1 (239,23) width:119 height:47 oursum429
 next frame: 
-checksum:ad sig:01 (01,00) width:ee height00 
+checksum:429 sig:1 (238,25) width:114 height:51 oursum429
 next frame: 
-checksum:a9 sig:01 (01,00) width:ef height00 
+checksum:425 sig:1 (239,23) width:115 height:47 oursum425
 next frame: 
-checksum:b1 sig:01 (01,00) width:f2 height00 
+checksum:433 sig:1 (242,24) width:118 height:48 oursum433
 next frame: 
-checksum:c1 sig:01 (01,00) width:f4 height00 
+checksum:449 sig:1 (244,28) width:119 height:57 oursum449
 next frame: 
-checksum:c3 sig:01 (01,00) width:f8 height00 
+checksum:451 sig:1 (248,30) width:112 height:60 oursum451
 next frame: 
-checksum:ce sig:01 (01,00) width:f5 height00 
+checksum:462 sig:1 (245,33) width:117 height:66 oursum462
 next frame: 
-checksum:d7 sig:01 (01,00) width:f8 height00 
+checksum:471 sig:1 (248,34) width:119 height:69 oursum471
 next frame: 
-checksum:e1 sig:01 (01,00) width:fa height00 
+checksum:481 sig:1 (250,38) width:116 height:76 oursum481
 next frame: 
-checksum:e3 sig:01 (01,00) width:fe height00 
-checksum:3f sig:01 (01,00) width:d6 height00 
+checksum:483 sig:1 (254,37) width:116 height:75 oursum483
+checksum:319 sig:1 (214,85) width:14 height:5 oursum319
 next frame: 
-checksum:f2 sig:01 (01,00) width:fe height00 
+checksum:498 sig:1 (254,42) width:116 height:85 oursum498
 next frame: 
-checksum:fa sig:01 (01,00) width:ff height00 
+checksum:506 sig:1 (255,46) width:112 height:92 oursum506
 next frame: 
-checksum:fe sig:01 (01,00) width:03 height01 
+checksum:510 sig:1 (259,49) width:119 height:82 oursum510
 next frame: 
-checksum:f9 sig:01 (01,00) width:07 height01 
-checksum:0e sig:01 (01,00) width:ea height00 
+checksum:505 sig:1 (263,53) width:108 height:80 oursum505
+checksum:270 sig:1 (234,2) width:28 height:5 oursum270
 next frame: 
-checksum:fc sig:01 (01,00) width:05 height01 
-checksum:1b sig:01 (01,00) width:eb height00 
+checksum:508 sig:1 (261,54) width:115 height:77 oursum508
+checksum:283 sig:1 (235,4) width:34 height:9 oursum283
 next frame: 
-checksum:00 sig:02 (01,00) width:05 height01 
+checksum:512 sig:1 (261,62) width:114 height:74 oursum512
 next frame: 
-checksum:0a sig:02 (01,00) width:0a height01 
-checksum:00 sig:01 (01,00) width:e0 height00 
+checksum:522 sig:1 (266,67) width:107 height:81 oursum522
+checksum:256 sig:1 (224,12) width:16 height:3 oursum256
 next frame: 
-checksum:13 sig:02 (01,00) width:07 height01 
+checksum:531 sig:1 (263,71) width:114 height:82 oursum531
 next frame: 
-checksum:0e sig:02 (01,00) width:08 height01 
-checksum:ea sig:00 (01,00) width:dd height00 
+checksum:526 sig:1 (264,72) width:112 height:77 oursum526
+checksum:234 sig:1 (221,1) width:8 height:3 oursum234
 next frame: 
-checksum:0f sig:02 (01,00) width:09 height01 
-checksum:ee sig:00 (01,00) width:de height00 
-checksum:0a sig:01 (01,00) width:e0 height00 
+checksum:527 sig:1 (265,76) width:110 height:75 oursum527
+checksum:238 sig:1 (222,2) width:9 height:4 oursum238
+checksum:266 sig:1 (224,30) width:8 height:3 oursum266
 next frame: 
-checksum:17 sig:02 (01,00) width:09 height01 
-checksum:44 sig:01 (01,00) width:ef height00 
+checksum:535 sig:1 (265,84) width:109 height:76 oursum535
+checksum:324 sig:1 (239,14) width:41 height:29 oursum324
 next frame: 
-checksum:13 sig:02 (01,00) width:0a height01 
-checksum:f7 sig:00 (01,00) width:e1 height00 
+checksum:531 sig:1 (266,84) width:108 height:72 oursum531
+checksum:247 sig:1 (225,4) width:9 height:8 oursum247
 next frame: 
-checksum:1a sig:02 (01,00) width:0a height01 
+checksum:538 sig:1 (266,88) width:107 height:76 oursum538
 next frame: 
-checksum:26 sig:02 (01,00) width:0c height01 
-checksum:54 sig:01 (01,00) width:f3 height00 
+checksum:550 sig:1 (268,95) width:104 height:82 oursum550
+checksum:340 sig:1 (243,18) width:41 height:37 oursum340
 next frame: 
-checksum:17 sig:02 (01,00) width:0c height01 
-checksum:f6 sig:00 (01,00) width:c7 height00 
-checksum:26 sig:01 (01,00) width:05 height01 
+checksum:535 sig:1 (268,96) width:104 height:66 oursum535
+checksum:246 sig:1 (199,38) width:5 height:3 oursum246
+checksum:294 sig:1 (261,23) width:7 height:2 oursum294
 next frame: 
-checksum:1a sig:02 (01,00) width:0d height01 
-checksum:1d sig:01 (01,00) width:e7 height00 
+checksum:538 sig:1 (269,91) width:102 height:75 oursum538
+checksum:285 sig:1 (231,42) width:7 height:4 oursum285
 next frame: 
-checksum:24 sig:02 (01,00) width:0d height01 
-checksum:31 sig:01 (01,00) width:08 height01 
+checksum:548 sig:1 (269,100) width:102 height:76 oursum548
+checksum:305 sig:1 (264,28) width:8 height:4 oursum305
 next frame: 
-checksum:24 sig:02 (01,00) width:0d height01 
-checksum:5a sig:01 (01,00) width:f7 height00 
+checksum:548 sig:1 (269,102) width:102 height:74 oursum548
+checksum:346 sig:1 (247,18) width:43 height:37 oursum346
 next frame: 
-checksum:20 sig:02 (01,00) width:0d height01 
-checksum:2c sig:01 (01,00) width:0a height01 
+checksum:544 sig:1 (269,105) width:101 height:68 oursum544
+checksum:300 sig:1 (266,23) width:7 height:3 oursum300
 next frame: 
-checksum:9b sig:01 (01,00) width:fb height00 
-checksum:1f sig:02 (01,00) width:0d height01 
-checksum:87 sig:01 (01,00) width:2e height01 
+checksum:411 sig:1 (251,38) width:44 height:77 oursum411
+checksum:543 sig:1 (269,110) width:101 height:62 oursum543
+checksum:391 sig:1 (302,71) width:14 height:3 oursum391
 next frame: 
-checksum:20 sig:02 (01,00) width:0e height01 
-checksum:65 sig:01 (01,00) width:fb height00 
-checksum:3b sig:01 (01,00) width:f1 height00 
+checksum:544 sig:1 (270,110) width:99 height:64 oursum544
+checksum:357 sig:1 (251,20) width:44 height:41 oursum357
+checksum:315 sig:1 (241,54) width:18 height:1 oursum315
 next frame: 
-checksum:27 sig:02 (01,00) width:0e height01 
+checksum:551 sig:1 (270,110) width:100 height:70 oursum551
 next frame: 
-checksum:23 sig:02 (01,00) width:0e height01 
-checksum:6b sig:01 (01,00) width:fe height00 
+checksum:547 sig:1 (270,112) width:99 height:65 oursum547
+checksum:363 sig:1 (254,21) width:44 height:43 oursum363
 next frame: 
-checksum:26 sig:02 (01,00) width:10 height01 
-checksum:74 sig:01 (01,00) width:ff height00 
+checksum:550 sig:1 (272,112) width:96 height:69 oursum550
+checksum:372 sig:1 (255,24) width:44 height:48 oursum372
 next frame: 
-checksum:28 sig:02 (01,00) width:13 height01 
-checksum:6a sig:01 (01,00) width:02 height01 
-checksum:e2 sig:00 (01,00) width:d0 height00 
+checksum:552 sig:1 (275,116) width:90 height:70 oursum552
+checksum:362 sig:1 (258,20) width:43 height:40 oursum362
+checksum:226 sig:1 (208,1) width:14 height:2 oursum226
 next frame: 
-checksum:24 sig:02 (01,00) width:12 height01 
-checksum:6a sig:01 (01,00) width:05 height01 
+checksum:548 sig:1 (274,117) width:91 height:65 oursum548
+checksum:362 sig:1 (261,18) width:45 height:37 oursum362
 next frame: 
-checksum:2a sig:02 (01,00) width:13 height01 
-checksum:84 sig:01 (01,00) width:08 height01 
-checksum:eb sig:00 (01,00) width:d6 height00 
+checksum:554 sig:1 (275,118) width:89 height:71 oursum554
+checksum:388 sig:1 (264,27) width:42 height:54 oursum388
+checksum:235 sig:1 (214,2) width:13 height:5 oursum235
 next frame: 
-checksum:4e sig:02 (01,00) width:14 height01 
-checksum:f2 sig:00 (01,00) width:da height00 
+checksum:590 sig:1 (276,75) width:87 height:151 oursum590
+checksum:242 sig:1 (218,3) width:14 height:6 oursum242
 next frame: 
-checksum:25 sig:02 (01,00) width:15 height01 
-checksum:86 sig:01 (01,00) width:10 height01 
-checksum:fa sig:00 (01,00) width:df height00 
+checksum:549 sig:1 (277,125) width:85 height:61 oursum549
+checksum:390 sig:1 (272,25) width:42 height:50 oursum390
+checksum:250 sig:1 (223,4) width:14 height:8 oursum250
 next frame: 
-checksum:23 sig:02 (01,00) width:15 height01 
-checksum:8d sig:01 (01,00) width:13 height01 
-checksum:a3 sig:01 (01,00) width:0f height01 
+checksum:547 sig:1 (277,132) width:85 height:52 oursum547
+checksum:397 sig:1 (275,26) width:43 height:52 oursum397
+checksum:419 sig:1 (271,83) width:40 height:24 oursum419
 next frame: 
-checksum:5f sig:02 (01,00) width:0f height01 
+checksum:607 sig:1 (271,79) width:98 height:158 oursum607
 next frame: 
-checksum:45 sig:02 (01,00) width:14 height01 
-checksum:7d sig:01 (01,00) width:12 height01 
-checksum:01 sig:01 (01,00) width:e3 height00 
+checksum:581 sig:1 (276,106) width:88 height:110 oursum581
+checksum:381 sig:1 (274,22) width:40 height:44 oursum381
+checksum:257 sig:1 (227,12) width:12 height:5 oursum257
 next frame: 
-checksum:2a sig:02 (01,00) width:12 height01 
-checksum:94 sig:01 (01,00) width:11 height01 
-checksum:02 sig:01 (01,00) width:e1 height00 
+checksum:554 sig:1 (274,128) width:92 height:59 oursum554
+checksum:404 sig:1 (273,30) width:40 height:60 oursum404
+checksum:258 sig:1 (225,14) width:12 height:6 oursum258
 next frame: 
-checksum:3c sig:02 (01,00) width:11 height01 
-checksum:95 sig:01 (01,00) width:0e height01 
+checksum:572 sig:1 (273,134) width:93 height:71 oursum572
+checksum:405 sig:1 (270,31) width:41 height:62 oursum405
 next frame: 
-checksum:33 sig:02 (01,00) width:12 height01 
-checksum:a3 sig:01 (01,00) width:0c height01 
-checksum:01 sig:01 (01,00) width:dd height00 
+checksum:563 sig:1 (274,133) width:92 height:63 oursum563
+checksum:419 sig:1 (268,37) width:39 height:74 oursum419
+checksum:257 sig:1 (221,18) width:12 height:5 oursum257
 next frame: 
-checksum:31 sig:02 (01,00) width:12 height01 
-checksum:71 sig:01 (01,00) width:0b height01 
+checksum:561 sig:1 (274,136) width:92 height:58 oursum561
+checksum:369 sig:1 (267,20) width:41 height:40 oursum369
 next frame: 
-checksum:3a sig:02 (01,00) width:13 height01 
-checksum:81 sig:01 (01,00) width:0d height01 
-checksum:06 sig:01 (01,00) width:dd height00 
-checksum:3f sig:01 (01,00) width:de height00 
+checksum:570 sig:1 (275,135) width:90 height:69 oursum570
+checksum:385 sig:1 (269,24) width:43 height:48 oursum385
+checksum:262 sig:1 (221,19) width:11 height:10 oursum262
+checksum:319 sig:1 (222,86) width:6 height:4 oursum319
 next frame: 
-checksum:33 sig:02 (01,00) width:15 height01 
-checksum:71 sig:01 (01,00) width:0f height01 
+checksum:563 sig:1 (277,135) width:86 height:64 oursum563
+checksum:369 sig:1 (271,20) width:37 height:40 oursum369
 next frame: 
-checksum:30 sig:02 (01,00) width:16 height01 
-checksum:68 sig:01 (01,00) width:13 height01 
-checksum:99 sig:01 (01,00) width:11 height01 
+checksum:560 sig:1 (278,136) width:83 height:62 oursum560
+checksum:360 sig:1 (275,16) width:36 height:32 oursum360
+checksum:409 sig:1 (273,61) width:38 height:36 oursum409
 next frame: 
-checksum:54 sig:02 (01,00) width:18 height01 
-checksum:7b sig:01 (01,00) width:18 height01 
+checksum:596 sig:1 (280,112) width:79 height:124 oursum596
+checksum:379 sig:1 (280,20) width:38 height:40 oursum379
 next frame: 
-checksum:47 sig:02 (01,00) width:19 height01 
-checksum:68 sig:01 (01,00) width:1d height01 
+checksum:583 sig:1 (281,116) width:77 height:108 oursum583
+checksum:360 sig:1 (285,16) width:26 height:32 oursum360
 next frame: 
-checksum:6f sig:02 (01,00) width:15 height01 
+checksum:623 sig:1 (277,86) width:86 height:173 oursum623
 next frame: 
-checksum:29 sig:02 (01,00) width:1d height01 
-checksum:82 sig:01 (01,00) width:20 height01 
-checksum:af sig:01 (01,00) width:1d height01 
+checksum:553 sig:1 (285,138) width:70 height:59 oursum553
+checksum:386 sig:1 (288,24) width:25 height:48 oursum386
+checksum:431 sig:1 (285,67) width:41 height:37 oursum431
 next frame: 
-checksum:2f sig:02 (01,00) width:1b height01 
-checksum:65 sig:01 (01,00) width:21 height01 
-checksum:97 sig:01 (01,00) width:1c height01 
+checksum:559 sig:1 (283,140) width:73 height:62 oursum559
+checksum:357 sig:1 (289,14) width:24 height:29 oursum357
+checksum:407 sig:1 (284,67) width:34 height:21 oursum407
 next frame: 
-checksum:32 sig:02 (01,00) width:1d height01 
-checksum:66 sig:01 (01,00) width:23 height01 
+checksum:562 sig:1 (285,128) width:70 height:78 oursum562
+checksum:358 sig:1 (291,15) width:21 height:30 oursum358
 next frame: 
-checksum:48 sig:02 (01,00) width:1c height01 
-checksum:70 sig:01 (01,00) width:25 height01 
-checksum:2c sig:01 (01,00) width:f8 height00 
+checksum:584 sig:1 (284,109) width:71 height:119 oursum584
+checksum:368 sig:1 (293,17) width:23 height:34 oursum368
+checksum:300 sig:1 (248,30) width:12 height:9 oursum300
 next frame: 
-checksum:4d sig:02 (01,00) width:1c height01 
-checksum:70 sig:01 (01,00) width:28 height01 
+checksum:589 sig:1 (284,108) width:71 height:125 oursum589
+checksum:368 sig:1 (296,16) width:23 height:32 oursum368
 next frame: 
-checksum:2b sig:02 (01,00) width:1d height01 
-checksum:b4 sig:01 (01,00) width:22 height01 
-checksum:64 sig:01 (01,00) width:27 height01 
-checksum:2f sig:01 (01,00) width:fa height00 
+checksum:555 sig:1 (285,146) width:69 height:54 oursum555
+checksum:436 sig:1 (290,75) width:38 height:32 oursum436
+checksum:356 sig:1 (295,13) width:20 height:27 oursum356
+checksum:303 sig:1 (250,33) width:11 height:8 oursum303
 next frame: 
-checksum:4e sig:02 (01,00) width:1d height01 
-checksum:64 sig:01 (01,00) width:28 height01 
+checksum:590 sig:1 (285,117) width:70 height:117 oursum590
+checksum:356 sig:1 (296,13) width:19 height:27 oursum356
 next frame: 
-checksum:3e sig:02 (01,00) width:1f height01 
-checksum:73 sig:01 (01,00) width:29 height01 
-checksum:32 sig:01 (01,00) width:fd height00 
+checksum:574 sig:1 (287,121) width:66 height:99 oursum574
+checksum:371 sig:1 (297,18) width:19 height:36 oursum371
+checksum:306 sig:1 (253,32) width:11 height:9 oursum306
 next frame: 
-checksum:24 sig:02 (01,00) width:1e height01 
-checksum:ba sig:01 (01,00) width:28 height01 
+checksum:548 sig:1 (286,143) width:67 height:51 oursum548
+checksum:442 sig:1 (296,75) width:32 height:38 oursum442
 next frame: 
-checksum:24 sig:02 (01,00) width:21 height01 
-checksum:9b sig:01 (01,00) width:29 height01 
-checksum:54 sig:01 (01,00) width:2c height01 
-checksum:39 sig:01 (01,00) width:03 height01 
+checksum:548 sig:1 (289,144) width:61 height:53 oursum548
+checksum:411 sig:1 (297,64) width:31 height:18 oursum411
+checksum:340 sig:1 (300,8) width:14 height:17 oursum340
+checksum:313 sig:1 (259,32) width:13 height:8 oursum313
 next frame: 
-checksum:43 sig:02 (01,00) width:1f height01 
-checksum:5c sig:01 (01,00) width:2f height01 
+checksum:579 sig:1 (287,109) width:65 height:117 oursum579
+checksum:348 sig:1 (303,10) width:14 height:20 oursum348
 next frame: 
-checksum:23 sig:02 (01,00) width:1e height01 
-checksum:cc sig:01 (01,00) width:25 height01 
-checksum:5a sig:01 (01,00) width:2f height01 
+checksum:547 sig:1 (286,145) width:67 height:48 oursum547
+checksum:460 sig:1 (293,86) width:39 height:41 oursum460
+checksum:346 sig:1 (303,10) width:11 height:21 oursum346
 next frame: 
-checksum:50 sig:02 (01,00) width:21 height01 
-checksum:66 sig:01 (01,00) width:31 height01 
+checksum:592 sig:1 (289,118) width:62 height:122 oursum592
+checksum:358 sig:1 (305,13) width:12 height:27 oursum358
 next frame: 
-checksum:26 sig:02 (01,00) width:1d height01 
-checksum:da sig:01 (01,00) width:25 height01 
+checksum:550 sig:1 (285,155) width:70 height:39 oursum550
+checksum:474 sig:1 (293,102) width:36 height:42 oursum474
 next frame: 
-checksum:42 sig:02 (01,00) width:1f height01 
-checksum:53 sig:01 (01,00) width:31 height01 
-checksum:94 sig:01 (01,00) width:2d height01 
-checksum:43 sig:01 (01,00) width:09 height01 
+checksum:578 sig:1 (287,129) width:65 height:96 oursum578
+checksum:339 sig:1 (305,8) width:9 height:16 oursum339
+checksum:404 sig:1 (301,65) width:26 height:11 oursum404
+checksum:323 sig:1 (265,38) width:11 height:8 oursum323
 next frame: 
-checksum:4c sig:02 (01,00) width:21 height01 
-checksum:59 sig:01 (01,00) width:32 height01 
+checksum:588 sig:1 (289,118) width:62 height:118 oursum588
+checksum:345 sig:1 (306,9) width:11 height:18 oursum345
 next frame: 
-checksum:3e sig:02 (01,00) width:21 height01 
-checksum:4f sig:01 (01,00) width:34 height01 
-checksum:88 sig:01 (01,00) width:33 height01 
+checksum:574 sig:1 (289,144) width:61 height:79 oursum574
+checksum:335 sig:1 (308,6) width:7 height:13 oursum335
+checksum:392 sig:1 (307,55) width:26 height:3 oursum392
 next frame: 
-checksum:2d sig:02 (01,00) width:1f height01 
-checksum:ed sig:01 (01,00) width:29 height01 
+checksum:557 sig:1 (287,156) width:66 height:47 oursum557
+checksum:493 sig:1 (297,98) width:40 height:57 oursum493
 next frame: 
-checksum:30 sig:02 (01,00) width:1f height01 
-checksum:ed sig:01 (01,00) width:28 height01 
-checksum:58 sig:01 (01,00) width:37 height01 
+checksum:560 sig:1 (287,159) width:66 height:47 oursum560
+checksum:493 sig:1 (296,100) width:41 height:55 oursum493
+checksum:344 sig:1 (311,7) width:11 height:14 oursum344
 next frame: 
-checksum:2d sig:02 (01,00) width:1f height01 
-checksum:f3 sig:01 (01,00) width:2b height01 
-checksum:53 sig:01 (01,00) width:38 height01 
+checksum:557 sig:1 (287,157) width:66 height:46 oursum557
+checksum:499 sig:1 (299,88) width:41 height:70 oursum499
+checksum:339 sig:1 (312,5) width:10 height:11 oursum339
 next frame: 
-checksum:26 sig:02 (01,00) width:23 height01 
-checksum:b2 sig:01 (01,00) width:35 height01 
-checksum:4f sig:01 (01,00) width:3a height01 
+checksum:550 sig:1 (291,136) width:58 height:64 oursum550
+checksum:434 sig:1 (309,77) width:22 height:25 oursum434
+checksum:335 sig:1 (314,3) width:11 height:6 oursum335
 next frame: 
-checksum:28 sig:02 (01,00) width:22 height01 
-checksum:ef sig:01 (01,00) width:2c height01 
+checksum:552 sig:1 (290,156) width:59 height:46 oursum552
+checksum:495 sig:1 (300,99) width:39 height:56 oursum495
 next frame: 
-checksum:2a sig:02 (01,00) width:22 height01 
-checksum:ed sig:01 (01,00) width:2b height01 
-checksum:90 sig:01 (01,00) width:37 height01 
+checksum:554 sig:1 (290,158) width:60 height:45 oursum554
+checksum:493 sig:1 (299,104) width:42 height:47 oursum493
+checksum:400 sig:1 (311,64) width:18 height:6 oursum400
 next frame: 
-checksum:24 sig:02 (01,00) width:23 height01 
-checksum:ec sig:01 (01,00) width:2c height01 
+checksum:548 sig:1 (291,155) width:58 height:43 oursum548
+checksum:492 sig:1 (300,101) width:39 height:51 oursum492
 next frame: 
-checksum:19 sig:02 (01,00) width:24 height01 
-checksum:f5 sig:01 (01,00) width:2b height01 
-checksum:87 sig:01 (01,00) width:36 height01 
-checksum:4c sig:01 (01,00) width:11 height01 
+checksum:537 sig:1 (292,152) width:55 height:37 oursum537
+checksum:501 sig:1 (299,95) width:41 height:65 oursum501
+checksum:391 sig:1 (310,52) width:19 height:9 oursum391
+checksum:332 sig:1 (273,45) width:10 height:3 oursum332
 next frame: 
-checksum:2d sig:02 (01,00) width:21 height01 
-checksum:e1 sig:01 (01,00) width:2c height01 
+checksum:557 sig:1 (289,151) width:61 height:55 oursum557
+checksum:481 sig:1 (300,87) width:39 height:54 oursum481
 next frame: 
-checksum:1e sig:02 (01,00) width:23 height01 
-checksum:f1 sig:01 (01,00) width:23 height01 
-checksum:8e sig:01 (01,00) width:2b height01 
+checksum:542 sig:1 (291,146) width:58 height:46 oursum542
+checksum:497 sig:1 (291,179) width:19 height:7 oursum497
+checksum:398 sig:1 (299,76) width:14 height:8 oursum398
 next frame: 
-checksum:24 sig:02 (01,00) width:23 height01 
-checksum:f4 sig:01 (01,00) width:2c height01 
+checksum:548 sig:1 (291,157) width:57 height:42 oursum548
+checksum:500 sig:1 (300,101) width:40 height:58 oursum500
 next frame: 
-checksum:4a sig:02 (01,00) width:23 height01 
-checksum:4d sig:01 (01,00) width:12 height01 
+checksum:586 sig:1 (291,126) width:58 height:110 oursum586
+checksum:333 sig:1 (274,48) width:7 height:3 oursum333
 next frame: 
-checksum:22 sig:02 (01,00) width:23 height01 
-checksum:e3 sig:01 (01,00) width:2d height01 
-checksum:ac sig:01 (01,00) width:37 height01 
-checksum:57 sig:01 (01,00) width:15 height01 
+checksum:546 sig:1 (291,157) width:57 height:40 oursum546
+checksum:483 sig:1 (301,114) width:37 height:30 oursum483
+checksum:428 sig:1 (311,69) width:15 height:32 oursum428
+checksum:343 sig:1 (277,46) width:12 height:7 oursum343
 next frame: 
-checksum:39 sig:02 (01,00) width:24 height01 
-checksum:8d sig:01 (01,00) width:37 height01 
+checksum:569 sig:1 (292,139) width:55 height:82 oursum569
+checksum:397 sig:1 (311,56) width:18 height:11 oursum397
 next frame: 
-checksum:f0 sig:01 (01,00) width:2e height01 
-checksum:2b sig:02 (01,00) width:25 height01 
-checksum:78 sig:01 (01,00) width:3a height01 
+checksum:496 sig:1 (302,98) width:35 height:60 oursum496
+checksum:555 sig:1 (293,160) width:53 height:48 oursum555
+checksum:376 sig:1 (314,49) width:10 height:2 oursum376
 next frame: 
-checksum:46 sig:02 (01,00) width:25 height01 
+checksum:582 sig:1 (293,112) width:54 height:122 oursum582
 next frame: 
-checksum:27 sig:02 (01,00) width:24 height01 
-checksum:fb sig:01 (01,00) width:2f height01 
+checksum:551 sig:1 (292,158) width:56 height:44 oursum551
+checksum:507 sig:1 (303,89) width:33 height:81 oursum507
 next frame: 
-checksum:29 sig:02 (01,00) width:26 height01 
-checksum:e7 sig:01 (01,00) width:32 height01 
-checksum:5b sig:01 (01,00) width:1c height01 
+checksum:553 sig:1 (294,160) width:52 height:46 oursum553
+checksum:487 sig:1 (306,100) width:27 height:53 oursum487
+checksum:347 sig:1 (284,50) width:10 height:2 oursum347
 next frame: 
-checksum:29 sig:02 (01,00) width:26 height01 
-checksum:86 sig:01 (01,00) width:3b height01 
-checksum:91 sig:01 (01,00) width:3a height01 
+checksum:553 sig:1 (294,123) width:51 height:84 oursum553
+checksum:390 sig:1 (315,58) width:9 height:7 oursum390
+checksum:401 sig:1 (314,71) width:11 height:4 oursum401
 next frame: 
-checksum:27 sig:02 (01,00) width:26 height01 
-checksum:d6 sig:01 (01,00) width:33 height01 
+checksum:551 sig:1 (294,160) width:52 height:44 oursum551
+checksum:470 sig:1 (307,118) width:25 height:19 oursum470
 next frame: 
-checksum:3c sig:02 (01,00) width:28 height01 
+checksum:572 sig:1 (296,130) width:48 height:97 oursum572
 next frame: 
-checksum:12 sig:02 (01,00) width:29 height01 
-checksum:e5 sig:01 (01,00) width:34 height01 
-checksum:dd sig:01 (01,00) width:1a height01 
+checksum:530 sig:1 (297,155) width:45 height:32 oursum530
+checksum:485 sig:1 (308,112) width:24 height:40 oursum485
+checksum:477 sig:1 (282,181) width:8 height:5 oursum477
 next frame: 
-checksum:20 sig:02 (01,00) width:29 height01 
-checksum:d5 sig:01 (01,00) width:35 height01 
-checksum:b7 sig:01 (01,00) width:3a height01 
+checksum:544 sig:1 (297,161) width:45 height:40 oursum544
+checksum:469 sig:1 (309,119) width:21 height:19 oursum469
+checksum:439 sig:1 (314,92) width:12 height:20 oursum439
 next frame: 
-checksum:1b sig:02 (01,00) width:2a height01 
-checksum:e6 sig:01 (01,00) width:36 height01 
+checksum:539 sig:1 (298,158) width:44 height:38 oursum539
+checksum:486 sig:1 (310,105) width:19 height:51 oursum486
 next frame: 
-checksum:1b sig:02 (01,00) width:2b height01 
-checksum:df sig:01 (01,00) width:36 height01 
-checksum:69 sig:01 (01,00) width:2a height01 
+checksum:539 sig:1 (299,158) width:41 height:40 oursum539
+checksum:479 sig:1 (310,115) width:19 height:34 oursum479
+checksum:361 sig:1 (298,48) width:9 height:5 oursum361
 next frame: 
-checksum:15 sig:02 (01,00) width:2d height01 
-checksum:d9 sig:01 (01,00) width:38 height01 
+checksum:533 sig:1 (301,156) width:38 height:37 oursum533
+checksum:473 sig:1 (312,115) width:15 height:30 oursum473
 next frame: 
-checksum:24 sig:02 (01,00) width:2c height01 
-checksum:da sig:01 (01,00) width:3a height01 
+checksum:548 sig:1 (300,161) width:39 height:47 oursum548
+checksum:474 sig:1 (314,115) width:12 height:32 oursum474
